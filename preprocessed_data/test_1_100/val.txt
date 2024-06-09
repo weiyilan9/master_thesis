@@ -1,0 +1,50 @@
+001369|100|{n ing2 b o1 sp ing1 g ai1 ing2 z ao4 z en3 iang4 d e5 h uan2 j ing4 sp l ai2 in3 j in4 sp h e2 p ei2 iang3 r en2 c ai2}|ning2 bo1 ying1 gai1 ying2 zao4 zen3 yang4 de5 huan2 jing4 lai2 yin3 jin4 he2 pei2 yang3 ren2 cai2
+001341|100|{j ing1 van4 f ang1 zh eng4 sh iii2 sp n v3 ing1 sh en1 h uan4 d an2 g uan3 b i4 s uo3}|jing1 yuan4 fang1 zheng4 shi2 nv3 ying1 shen1 huan4 dan2 guan3 bi4 suo3
+001274|100|{er2 zh e4 x ie1 j ia4 sh iii3 van2 d ou1 f ei1 ch e1 zh u3 sp q van2 b u4 iou2 zh uan1 ie4 ch uang2 g ang3 s ii1 j i1 l ai2 uan2 ch eng2}|er2 zhe4 xie1 jia4 shi3 yuan2 dou1 fei1 che1 zhu3 quan2 bu4 you2 zhuan1 ye4 chuang2 gang3 si1 ji1 lai2 wan2 cheng2
+000054|100|{v3 n v2 ian3 van2 p ai1 uen3 x i4 sp ch en2 x iao3 ch uen1 b u2 p a4 ing4 c ai3 er2 *ch *iii1 *c *u4}|yu3 nv2 yan3 yuan2 pai1 wen3 xi4 chen2 xiao3 chun1 bu2 pa4 ying4 cai3 er2 *chi1 *cu4
+000049|100|{q van3 *b *i4 *x *v1 sh uan1 iang3 h uo4 j van4 iang3}|quan3 *bi4 *xu1 shuan1 yang3 huo4 juan4 yang3
+000067|100|{uang3 g ou4 sp h uo4 uang3 s ou1 *g *u3 *m *in2 x in4 x i1 sp i3 g ao1 h uei2 b ao4 uei2 er3 sp q ing3 j vn1 r u4 ueng4}|wang3 gou4 huo4 wang3 sou1 *gu3 *min2 xin4 xi1 yi3 gao1 hui2 bao4 wei2 er3 qing3 jun1 ru4 weng4
+000572|100|{d an4 g ai1 m ing2 x ve2 sh eng1 c ii4 r iii4 sp ch en4 u2 r en2 sh iii2 sp i2 zh iii3 j ia5 t ong3 p o4 k uen2 b ang3 j iao1 d ai4 sp er2 ch eng2 g ong1 t ao2 t uo1}|dan4 gai1 ming2 xue2 sheng1 ci4 ri4 chen4 wu2 ren2 shi2 yi2 zhi3 jia5 tong3 po4 kun2 bang3 jiao1 dai4 er2 cheng2 gong1 tao2 tuo1
+000015|100|{u2 vn2 b ao2 n ai3 n ai5 *t *iao1 *x *van3 p i2 p a2}|wu2 yun2 bao2 nai3 nai5 *tiao1 *xuan3 pi2 pa2
+000281|100|{ch u1 q v4 h ou4 x iang3 d ao4 uai4 m ian4 q v4 ch uang3 i4 ch uang3}|chu1 qu4 hou4 xiang3 dao4 wai4 mian4 qu4 chuang3 yi4 chuang3
+000200|100|{c ii3 uen2 j ing1 zh ai1 b ian1 sp b iao1 t i2 uei2 b ian1 zh e3 zh iii4 z uo4}|ci3 wen2 jing1 zhai1 bian1 biao1 ti2 wei2 bian1 zhe3 zhi4 zuo4
+001336|100|{n a4 sh eng1 j ian1 s ii4 iou3 h ong2 uai4 x ian4 zh iii4 d ao3 sp zh iii2 ch ong1 n v3 h ai2 d e5 l ian3 j ia2}|na4 sheng1 jian1 si4 you3 hong2 wai4 xian4 zhi4 dao3 zhi2 chong1 nv3 hai2 de5 lian3 jia2
+000594|100|{s an1 l iang3 t iao2 j iou4 m ai4 i4 m ao2 sp h a2 m a5 g u1 d uor3 sp d a4 t ian2 l uo2 s ii1 b ai2 n ao2}|san1 liang3 tiao2 jiu4 mai4 yi4 mao2 ha2 ma5 gu1 duor3 da4 tian2 luo2 si1 bai2 nao2
+000225|100|{sh eng1 in1 d ia2 d ia3 d e5 sp zh uang1 n en4 sp ai4 d iao4 ian3 l ei4}|sheng1 yin1 dia2 dia3 de5 zhuang1 nen4 ai4 diao4 yan3 lei4
+000134|100|{t a1 iou4 k u1 iou4 n ao4 sp h ai2 n a2 d ao1 ch uo1 l ai2 ch uo1 q v4}|ta1 you4 ku1 you4 nao4 hai2 na2 dao1 chuo1 lai2 chuo1 qu4
+000007|100|{zh ao4 d i2 *ve1 c ao2 vn2 t eng2 q v4 *g *uei3 *u1}|zhao4 di2 *yue1 cao2 yun2 teng2 qu4 *gui3 *wu1
+001031|100|{j iang4 j ia4 h ou4 d e5 m en2 p iao4 j ia4 sp i3 van2 uei2 d an1 uei4 q v2 zh eng3 sp s ii4 sh e2 u3 r u4}|jiang4 jia4 hou4 de5 men2 piao4 jia4 yi3 yuan2 wei2 dan1 wei4 qu2 zheng3 si4 she2 wu3 ru4
+000210|100|{i4 d ou3 l ing4 i4 uan3 sp x iang1 d ang1 v2 l iang2 uan3 b ai2 x ian3}|yi4 dou3 ling4 yi4 wan3 xiang1 dang1 yu2 liang2 wan3 bai2 xian3
+001222|100|{t a1 r en4 uei2 sp c ii3 c ii4 l ie4 ch e1 ch u1 g uei3 sp v2 g uei3 d ao4 d uo1 uan1 u2 g uan1}|ta1 ren4 wei2 ci3 ci4 lie4 che1 chu1 gui3 yu2 gui3 dao4 duo1 wan1 wu2 guan1
+000248|100|{sh en4 v4 h e2 d e5 q ing1 v1 g ong1 z uo4 sp ie2 i3 uan2 g ong1}|shen4 yu4 he2 de5 qing1 yu1 gong1 zuo4 ye2 yi3 wan2 gong1
+001351|100|{sh eng2 uei3 sh u1 j i5 j i2 b ing3 x van1 sp sh en1 r u4 s uei2 h ua4 sp j ia1 m u4 s ii1 sp n ong2 k en2 d eng3 sh iii4 j v2 sp j ian3 ch a2 ch uen1 b o1 sh eng1 ch an3}|sheng2 wei3 shu1 ji5 ji2 bing3 xuan1 shen1 ru4 sui2 hua4 jia1 mu4 si1 nong2 ken2 deng3 shi4 ju2 jian3 cha2 chun1 bo1 sheng1 chan3
+001450|100|{i4 d ang3 uei2 zh u3 h uo4 l iang2 d ang3 d e5 g uo2 j ia1 sp g eng1 i4 z ao1 sh ou4 j vn1 sh iii4 g an1 r ao3}|yi4 dang3 wei2 zhu3 huo4 liang2 dang3 de5 guo2 jia1 geng1 yi4 zao1 shou4 jun1 shi4 gan1 rao3
+001254|100|{t ong2 ch ang3 h ai2 iou3 k e1 j ia1 ian4 sp ch en2 t ing2 n i1}|tong2 chang3 hai2 you3 ke1 jia1 yan4 chen2 ting2 ni1
+000395|100|{t uan2 h uo3 d a4 b a2 sh u3 ch ao1 p iao4 x van4 f u4}|tuan2 huo3 da4 ba2 shu3 chao1 piao4 xuan4 fu4
+000498|100|{m a3 d e2 zh ong1 sp ie3 h uo4 l ou3 h uo4 b ao4}|ma3 de2 zhong1 ye3 huo4 lou3 huo4 bao4
+001183|100|{k e3 z uo4 ch uan2 z ai4 er2 h ai3 sh ang4 sp ch ang4 iou2 i4 f an1}|ke3 zuo4 chuan2 zai4 er2 hai3 shang4 chang4 you2 yi4 fan1
+001434|100|{n ian2 m o4 g u4 d ing4 d ian4 h ua4 iong4 h u4 sp l iang3 uan4 b a1 q ian1 u2 b ai3 i1 sh iii2 er4 uan4 h u4}|nian2 mo4 gu4 ding4 dian4 hua4 yong4 hu4 liang3 wan4 ba1 qian1 wu2 bai3 yi1 shi2 er4 wan4 hu4
+001370|100|{j i4 zh e3 ch u1 m en2 h ou4 x vn2 uen4 zh ou1 b ian1 l in2 j v5 sp d an4 i4 t ing1 d ao4 uen4 k an4 t uan3 t ai2 sp j iou4 van2 van2 d uo3 k ai1}|ji4 zhe3 chu1 men2 hou4 xun2 wen4 zhou1 bian1 lin2 ju5 dan4 yi4 ting1 dao4 wen4 kan4 tuan3 tai2 jiu4 yuan2 yuan2 duo3 kai1
+001428|100|{f an3 sh en1 j iang1 sh e2 l in1 q i3 sp x van2 k ong1 d ou3 d ong4}|fan3 shen1 jiang1 she2 lin1 qi3 xuan2 kong1 dou3 dong4
+000330|100|{er2 t ang2 h eng2 ie3 b ing4 l e5 sp h ou2 l ong5 f a1 ian2}|er2 tang2 heng2 ye3 bing4 le5 hou2 long5 fa1 yan2
+000535|100|{u2 v3 l a5 ia5 sp u2 v3 j iou4 d uei4 l a5}|wu2 yu3 la5 ya5 wu2 yu3 jiu4 dui4 la5
+001260|100|{t a1 sh iii4 t eng2 x vn4 g ong1 s ii1 zh u3 iao4 ch uang4 b an4 r en2 zh iii1 i1 ia5}|ta1 shi4 teng2 xun4 gong1 si1 zhu3 yao4 chuang4 ban4 ren2 zhi1 yi1 ya5
+000212|100|{b i4 j ing4 sp sh u4 n uo2 s ii3 sp r en2 n uo2 h uo2 a5}|bi4 jing4 shu4 nuo2 si3 ren2 nuo2 huo2 a5
+001499|100|{zh iii3 uen2 zh eng4 j v4 u2 x ia2 c ii1}|zhi3 wen2 zheng4 ju4 wu2 xia2 ci1
+000567|100|{zh e4 x ian3 sh iii4 sp m ang2 g uo2 uang3 sp zh eng4 vn4 n iang4 f en1 ch ai1 sh ang4 sh iii4}|zhe4 xian3 shi4 mang2 guo2 wang3 zheng4 yun4 niang4 fen1 chai1 shang4 shi4
+000113|100|{d i2 uo4 er3 f u1 sp z e2 t uen1 l e5 i4 k ou2 sh uei3}|di2 wo4 er3 fu1 ze2 tun1 le5 yi4 kou2 shui3
+001277|100|{in1 g ao1 j vn4 l iang4 sp u2 f a2 f an3 h uan2 b en3 j in1 j i2 l i4 x i5 sp z ao4 ch eng2 s u1 ie4 n v3 sp z ii1 j in1 d e5 j v4 e2 k uei1 k ong1}|yin1 gao1 jun4 liang4 wu2 fa2 fan3 huan2 ben3 jin1 ji2 li4 xi5 zao4 cheng2 su1 ye4 nv3 zi1 jin1 de5 ju4 e2 kui1 kong1
+000121|100|{x ve2 sh eng1 t a4 sh ang4 l an2 g an1 sp x i4 n ong5 e4 v2}|xue2 sheng1 ta4 shang4 lan2 gan1 xi4 nong5 e4 yu2
+000310|100|{*n *i3 c ai1 *uo3 c ai1 *n *i3 c ai1 b u4 c ai1}|*ni3 cai1 *wo3 cai1 *ni3 cai1 bu4 cai1
+000430|100|{h ong2 x ian4 k uang4 n ei4 sp uei2 q ing2 r en2 h u2 van2 zh iii3 sp x ian4 i3 b ei4 t ian2 m ai2}|hong2 xian4 kuang4 nei4 wei2 qing2 ren2 hu2 yuan2 zhi3 xian4 yi3 bei4 tian2 mai2
+000060|100|{*s *ao3 *s *ao5 g ei3 z uo4 d e5 iou2 m ian4 uo1 uo5 sp h e2 iang2 r ou4 *d *uen4 *sh *an1 *iao4}|*sao3 *sao5 gei3 zuo4 de5 you2 mian4 wo1 wo5 he2 yang2 rou4 *dun4 *shan1 *yao4
+000413|100|{er4 s ii4 u3 l u4 sp k ai1 sh e4 sp vn2 t ai2 h ua1 van2 zh iii4 d ong1 p u2 d uan3 x ian4}|er4 si4 wu3 lu4 kai1 she4 yun2 tai2 hua1 yuan2 zhi4 dong1 pu2 duan3 xian4
+000307|100|{j iang1 i1 ian4 i4 zh iii2 z ii4 x v3 uei2 p a2 x ing2 zh e3}|jiang1 yi1 yan4 yi4 zhi2 zi4 xu3 wei2 pa2 xing2 zhe3
+001145|100|{b o1 d a3 j iou2 u3 iao1 l ing2 u3 iao1 l ing2 u2 sp k e3 d ian4 h ua4 d ing4 p iao4}|bo1 da3 jiu2 wu3 yao1 ling2 wu3 yao1 ling2 wu2 ke3 dian4 hua4 ding4 piao4
+000155|100|{sh ou2 p eng2 s ii3 c an2 sp c an2 n ong2 f ei1 ch ang2 j v3 s ang4}|shou2 peng2 si3 can2 can2 nong2 fei1 chang2 ju3 sang4
+001293|100|{ch en2 n ian2 s ii1 c uen3 zh e5 zh uan3 x ing2}|chen2 nian2 si1 cun3 zhe5 zhuan3 xing2
+001050|100|{b ei3 d a4 q ing1 h ua2 j iou4 c eng2 uei4 zh uang4 van2 sh u4 sh e2 zh an4}|bei3 da4 qing1 hua2 jiu4 ceng2 wei4 zhuang4 yuan2 shu4 she2 zhan4
+000131|100|{g ao3 x ie1 l in2 ie4 *j *i1 x ie4 zh u3 ie4 i3 uai4 d e5 p ian1 ie4 n e5}|gao3 xie1 lin2 ye4 *ji1 xie4 zhu3 ye4 yi3 wai4 de5 pian1 ye4 ne5
+001105|100|{t ai2 t ou2 iao2 uang4 c ang1 q iong2 sp x in1 q ing2 in1 an4 d e5 h e2 t ian1 i2 iang4 u2 j i4}|tai2 tou2 yao2 wang4 cang1 qiong2 xin1 qing2 yin1 an4 de5 he2 tian1 yi2 yang4 wu2 ji4
+001030|100|{x iang3 z an4 m ei3 sp iou2 d ian3 c ii2 q iong2}|xiang3 zan4 mei3 you2 dian3 ci2 qiong2
+001311|100|{uo3 d a4 er2 z ii5 x iao3 m ing2 j iou4 j iao4 h an1 h an5 sp x ie2 in1}|wo3 da4 er2 zi5 xiao3 ming2 jiu4 jiao4 han1 han5 xie2 yin1
